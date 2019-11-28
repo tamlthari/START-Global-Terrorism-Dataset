@@ -1,0 +1,40 @@
+FEATURE,sens assoc,res assoc,total
+Al-Qaida,0.0,5.0,5.0
+"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",0.0,5.0,5.0
+Airports & Aircraft,0.0,4.0,4.0
+Armed Assault,0.0,4.0,4.0
+Hijacking,0.0,4.0,4.0
+Anti-Government extremists,1.0,2.0,3.0
+Melee,0.0,3.0,3.0
+Private Citizens & Property,0.0,3.0,3.0
+Biological,1.0,1.0,2.0
+Incendiary,0.0,2.0,2.0
+Oklahoma,0.0,2.0,2.0
+Unarmed Assault,1.0,1.0,2.0
+Anti-Gun Control extremists,1.0,0.0,1.0
+Assassination,1.0,0.0,1.0
+Black September,1.0,0.0,1.0
+BombingExplosion,1.0,0.0,1.0
+British Columbia,1.0,0.0,1.0
+Explosives,1.0,0.0,1.0
+FacilityInfrastructure Attack,0.0,1.0,1.0
+Firearms,0.0,1.0,1.0
+Front for the National Liberation of Puerto Rico,1.0,0.0,1.0
+Government (General),1.0,0.0,1.0
+Hanafi Muslims,1.0,0.0,1.0
+Hostage Taking (Kidnapping),0.0,1.0,1.0
+Independent Armed Revolutionary Commandos (CRIA),1.0,0.0,1.0
+International,1.0,0.0,1.0
+International Committee Against Nazism,1.0,0.0,1.0
+Israel,1.0,0.0,1.0
+Mexico,0.0,1.0,1.0
+Nebraska,1.0,0.0,1.0
+New York,0.0,1.0,1.0
+Oregon,0.0,1.0,1.0
+Other.1,1.0,0.0,1.0
+Puerto Rico.1,1.0,0.0,1.0
+Rajneeshees,0.0,1.0,1.0
+Telecommunication,1.0,0.0,1.0
+The Justice Department,1.0,0.0,1.0
+Transportation,1.0,0.0,1.0
+Weapon type Unknown,0.0,1.0,1.0

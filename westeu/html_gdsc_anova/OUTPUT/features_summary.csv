@@ -1,0 +1,98 @@
+FEATURE,sens assoc,res assoc,total
+Airports & Aircraft,1.0,5.0,6.0
+Hijacking,1.0,3.0,4.0
+United States,1.0,3.0,4.0
+Assassination,2.0,1.0,3.0
+BombingExplosion,2.0,1.0,3.0
+Corsica.1,2.0,1.0,3.0
+England,1.0,2.0,3.0
+FacilityInfrastructure Attack,2.0,1.0,3.0
+Fake Weapons,0.0,3.0,3.0
+France,1.0,2.0,3.0
+Great Britain,1.0,2.0,3.0
+Group name Unknown,3.0,0.0,3.0
+Hostage Taking (Barricade Incident),0.0,3.0,3.0
+Incendiary,2.0,1.0,3.0
+Irish Republican Army (IRA),1.0,2.0,3.0
+Northern Ireland,2.0,1.0,3.0
+Northern Ireland.1,2.0,1.0,3.0
+Popular Front for the Liberation of Palestine (PFLP),1.0,2.0,3.0
+Protestant extremists,1.0,2.0,3.0
+Transportation,1.0,2.0,3.0
+Abu Nidal Organization (ANO),0.0,2.0,2.0
+Al-Qaida,0.0,2.0,2.0
+Armed Revolutionary Nuclei (NAR),0.0,2.0,2.0
+Black September,1.0,1.0,2.0
+Business,1.0,1.0,2.0
+Corsican National Liberation Front (FLNC),1.0,1.0,2.0
+Explosives,1.0,1.0,2.0
+Firearms,0.0,2.0,2.0
+Greece,1.0,1.0,2.0
+Ile-de-France,1.0,1.0,2.0
+Islamic State of Iraq and the Levant (ISIL),0.0,2.0,2.0
+Jihadi-inspired extremists,0.0,2.0,2.0
+Lazio,0.0,2.0,2.0
+Madrid,0.0,2.0,2.0
+Military,0.0,2.0,2.0
+Multinational,0.0,2.0,2.0
+Scotland,0.0,2.0,2.0
+Turkey,0.0,2.0,2.0
+Ulster Volunteer Force (UVF),0.0,2.0,2.0
+"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",0.0,2.0,2.0
+Andalusia,1.0,0.0,1.0
+Animal Liberation Front (ALF),1.0,0.0,1.0
+Armed Assault,0.0,1.0,1.0
+Armed Islamic Group (GIA),0.0,1.0,1.0
+Attack type Unknown,0.0,1.0,1.0
+Barcelona,0.0,1.0,1.0
+Basque Country,0.0,1.0,1.0
+Berlin,0.0,1.0,1.0
+Black Liberation Front,1.0,0.0,1.0
+Black Order,0.0,1.0,1.0
+Bouches-du-Rhone,1.0,0.0,1.0
+CCCCC,1.0,0.0,1.0
+Chemical,1.0,0.0,1.0
+Committee of Solidarity with Arab and Middle East Political Prisoners (CSPPA),0.0,1.0,1.0
+Conspiracy of Cells of Fire,1.0,0.0,1.0
+Cork,1.0,0.0,1.0
+Corsican National Liberation Front- Historic Channel,0.0,1.0,1.0
+Dissident Republicans,1.0,0.0,1.0
+Dublin,1.0,0.0,1.0
+Egypt,0.0,1.0,1.0
+Flanders,0.0,1.0,1.0
+Germany,0.0,1.0,1.0
+Government (Diplomatic),1.0,0.0,1.0
+Government (General),1.0,0.0,1.0
+Hekla Reception Committee-Initiative for More Social Eruptions,1.0,0.0,1.0
+Hesse,1.0,0.0,1.0
+Hezbollah,0.0,1.0,1.0
+Hostage Taking (Kidnapping),1.0,0.0,1.0
+International,0.0,1.0,1.0
+Ireland,1.0,0.0,1.0
+Israel,1.0,0.0,1.0
+Italy,0.0,1.0,1.0
+Kildare,1.0,0.0,1.0
+Kurdistan Workers Party (PKK),0.0,1.0,1.0
+Lebanese Armed Revolutionary Faction (LARF),1.0,0.0,1.0
+Limerick,1.0,0.0,1.0
+Longford,1.0,0.0,1.0
+Marxists,0.0,1.0,1.0
+Meibion Glyndwr,1.0,0.0,1.0
+Melee,0.0,1.0,1.0
+Norway,0.0,1.0,1.0
+November 17 Revolutionary Organization (N17RO),0.0,1.0,1.0
+Oglaigh na hEireann,1.0,0.0,1.0
+"Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",0.0,1.0,1.0
+Private Citizens & Property,0.0,1.0,1.0
+Real Irish Republican Army (RIRA),1.0,0.0,1.0
+Red Hand Defenders (RHD),1.0,0.0,1.0
+Right-wing extremists,0.0,1.0,1.0
+Robin Food,1.0,0.0,1.0
+Sardinia,0.0,1.0,1.0
+Separatists,0.0,1.0,1.0
+Target type Unknown,1.0,0.0,1.0
+TerroristsNon-State Militia,0.0,1.0,1.0
+The New Irish Republican Army,1.0,0.0,1.0
+Wales,1.0,0.0,1.0
+Welsh Extremists,1.0,0.0,1.0
+Wicklow,1.0,0.0,1.0

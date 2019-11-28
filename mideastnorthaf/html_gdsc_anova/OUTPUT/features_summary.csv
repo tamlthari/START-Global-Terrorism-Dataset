@@ -1,0 +1,149 @@
+FEATURE,sens assoc,res assoc,total
+Multinational,1.0,6.0,7.0
+Iraq,3.0,3.0,6.0
+Islamic State of Iraq and the Levant (ISIL),2.0,4.0,6.0
+Beirut,0.0,5.0,5.0
+Government (Diplomatic),2.0,3.0,5.0
+Hezbollah,0.0,5.0,5.0
+Hostage Taking (Kidnapping),2.0,3.0,5.0
+United States,0.0,5.0,5.0
+Al-Nusrah Front,0.0,4.0,4.0
+Aleppo,0.0,4.0,4.0
+Government (General),3.0,1.0,4.0
+Idlib,0.0,4.0,4.0
+Incendiary,2.0,2.0,4.0
+Israel,3.0,1.0,4.0
+Melee,2.0,2.0,4.0
+Military,1.0,3.0,4.0
+Private Citizens & Property,1.0,3.0,4.0
+Utilities,2.0,2.0,4.0
+Weapon type Unknown,3.0,1.0,4.0
+Al-Qaida,0.0,3.0,3.0
+Al-Qaida in Iraq,0.0,3.0,3.0
+Algiers (Province),0.0,3.0,3.0
+Ansar al-Sunna,0.0,3.0,3.0
+Arbil,1.0,2.0,3.0
+Armed Assault,1.0,2.0,3.0
+Armed Islamic Group (GIA),0.0,3.0,3.0
+Assassination,3.0,0.0,3.0
+Attack type Unknown,2.0,1.0,3.0
+Eastern Province,0.0,3.0,3.0
+Egypt,3.0,0.0,3.0
+Explosives,2.0,1.0,3.0
+FacilityInfrastructure Attack,2.0,1.0,3.0
+Group name Unknown,3.0,0.0,3.0
+Homs,0.0,3.0,3.0
+Istanbul,3.0,0.0,3.0
+Journalists & Media,1.0,2.0,3.0
+Kurdistan Workers Party (PKK),1.0,2.0,3.0
+Nineveh,1.0,2.0,3.0
+Palestinian Extremists,3.0,0.0,3.0
+Palestinians,3.0,0.0,3.0
+Religious FiguresInstitutions,0.0,3.0,3.0
+Southern,3.0,0.0,3.0
+Syria,0.0,3.0,3.0
+Target type Unknown,3.0,0.0,3.0
+Tawhid and Jihad,0.0,3.0,3.0
+Turkey,2.0,1.0,3.0
+West Bank,3.0,0.0,3.0
+Yemen,3.0,0.0,3.0
+Adan,1.0,1.0,2.0
+Airports & Aircraft,1.0,1.0,2.0
+Al Anbar,1.0,1.0,2.0
+Al Hasakah,0.0,2.0,2.0
+Algeria,0.0,2.0,2.0
+Baathist extremists,0.0,2.0,2.0
+Babil,0.0,2.0,2.0
+Baghdad,0.0,2.0,2.0
+Benghazi,2.0,0.0,2.0
+BombingExplosion,0.0,2.0,2.0
+Business,0.0,2.0,2.0
+Chechen Rebels,1.0,1.0,2.0
+Damascus,0.0,2.0,2.0
+Firearms,1.0,1.0,2.0
+Front for the Liberation of Lebanon from Foreigners,0.0,2.0,2.0
+Gaza Strip,2.0,0.0,2.0
+Hamas (Islamic Resistance Movement),0.0,2.0,2.0
+Hijacking,1.0,1.0,2.0
+Houthi extremists (Ansar Allah),2.0,0.0,2.0
+India,0.0,2.0,2.0
+Islamic State of Iraq (ISI),0.0,2.0,2.0
+Kataib Hezbollah,0.0,2.0,2.0
+Kirkuk,2.0,0.0,2.0
+Libya,2.0,0.0,2.0
+Nationality Unknown,2.0,0.0,2.0
+North Sinai,2.0,0.0,2.0
+Patriotic Union of Kurdistan (PUK),0.0,2.0,2.0
+Province Unknown,1.0,1.0,2.0
+Tehran,0.0,2.0,2.0
+TerroristsNon-State Militia,0.0,2.0,2.0
+Transportation,0.0,2.0,2.0
+West Bank and Gaza Strip,2.0,0.0,2.0
+Abdullah Azzam Brigades,0.0,1.0,1.0
+Adan-Abyan Province of the Islamic State,0.0,1.0,1.0
+Ain Defla,0.0,1.0,1.0
+Al-Aqsa Martyrs Brigade,1.0,0.0,1.0
+Al-Haramayn Brigades,0.0,1.0,1.0
+Al-Qaida in Saudi Arabia,0.0,1.0,1.0
+Al-Qaida in the Arabian Peninsula (AQAP),0.0,1.0,1.0
+Aleppo Fatah Operations Room,0.0,1.0,1.0
+Amanat Al Asimah,1.0,0.0,1.0
+Amman,1.0,0.0,1.0
+Ankara,1.0,0.0,1.0
+Asir,1.0,0.0,1.0
+Austria,0.0,1.0,1.0
+Black September,1.0,0.0,1.0
+Blida,0.0,1.0,1.0
+Cairo,1.0,0.0,1.0
+Chemical,0.0,1.0,1.0
+Deir ez-Zor,0.0,1.0,1.0
+Dev Sol,1.0,0.0,1.0
+Diyala,0.0,1.0,1.0
+France,0.0,1.0,1.0
+Great Britain,0.0,1.0,1.0
+Hamah,0.0,1.0,1.0
+Hostage Taking (Barricade Incident),0.0,1.0,1.0
+Illizi,0.0,1.0,1.0
+International,0.0,1.0,1.0
+Iran,0.0,1.0,1.0
+Iraqi Mujahideen,0.0,1.0,1.0
+Iraqi extremists,0.0,1.0,1.0
+Islamic Unification Movement,0.0,1.0,1.0
+Islamist extremists,0.0,1.0,1.0
+Italy,0.0,1.0,1.0
+Jabal Al Akhdar,1.0,0.0,1.0
+Jerusalem,1.0,0.0,1.0
+Jund al-Aqsa,1.0,0.0,1.0
+Jundallah (Iran),0.0,1.0,1.0
+Karbala,0.0,1.0,1.0
+Kurdistan Freedom Hawks (TAK),0.0,1.0,1.0
+Laayoune-Boujdour-Sakia El Hamra,0.0,1.0,1.0
+Lebanon,0.0,1.0,1.0
+Makkah,0.0,1.0,1.0
+Maritime,0.0,1.0,1.0
+Medea,0.0,1.0,1.0
+Mount Lebanon,0.0,1.0,1.0
+Mujahedin-e Khalq (MEK),0.0,1.0,1.0
+Mukhtar Army,0.0,1.0,1.0
+Muslim Rebels,0.0,1.0,1.0
+NGO,0.0,1.0,1.0
+Najaf,0.0,1.0,1.0
+Najd Province of the Islamic State,0.0,1.0,1.0
+Police,0.0,1.0,1.0
+Polisario Front,0.0,1.0,1.0
+Raqqah,0.0,1.0,1.0
+Relizane,0.0,1.0,1.0
+Riyadh,0.0,1.0,1.0
+Russia,1.0,0.0,1.0
+Sabha,0.0,1.0,1.0
+Sabotage Equipment,0.0,1.0,1.0
+Saladin,1.0,0.0,1.0
+Sanaa Province of the Islamic State,0.0,1.0,1.0
+Sanliurfa,0.0,1.0,1.0
+Saudi Arabia,0.0,1.0,1.0
+Sirnak,0.0,1.0,1.0
+South,0.0,1.0,1.0
+Sudan,1.0,0.0,1.0
+Tel Aviv,1.0,0.0,1.0
+Tourists,0.0,1.0,1.0
+Wadi Al Shatii,0.0,1.0,1.0

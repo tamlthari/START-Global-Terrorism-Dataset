@@ -1,0 +1,50 @@
+FEATURE,sens assoc,res assoc,total
+Hostage Taking (Barricade Incident),1.0,5.0,6.0
+Airports & Aircraft,0.0,3.0,3.0
+Educational Institution,0.0,3.0,3.0
+Explosives,1.0,2.0,3.0
+Group name Unknown,3.0,0.0,3.0
+Hostage Taking (Kidnapping),2.0,1.0,3.0
+Assassination,1.0,1.0,2.0
+BombingExplosion,0.0,2.0,2.0
+Business,1.0,1.0,2.0
+Chechen Rebels,0.0,2.0,2.0
+Donetsk Peoples Republic,0.0,2.0,2.0
+North Ossetia-Alania (Republic),0.0,2.0,2.0
+Private Citizens & Property,0.0,2.0,2.0
+Province Unknown,0.0,2.0,2.0
+Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs,0.0,2.0,2.0
+Russia,1.0,1.0,2.0
+Target type Unknown,1.0,1.0,2.0
+Albania,0.0,1.0,1.0
+Belarus,0.0,1.0,1.0
+Caucasus Emirate,0.0,1.0,1.0
+Chemical,1.0,0.0,1.0
+Donetsk,0.0,1.0,1.0
+Federation of Bosnia and Herzegovina,0.0,1.0,1.0
+Government (Diplomatic),0.0,1.0,1.0
+Government (General),1.0,0.0,1.0
+Incendiary,0.0,1.0,1.0
+Islambouli Brigades of al-Qaida,0.0,1.0,1.0
+Italy,0.0,1.0,1.0
+Journalists & Media,0.0,1.0,1.0
+Kiev,1.0,0.0,1.0
+Military,0.0,1.0,1.0
+Minsk,0.0,1.0,1.0
+Moscow,0.0,1.0,1.0
+Moscow (Oblast),0.0,1.0,1.0
+North Ossetia,0.0,1.0,1.0
+Police,0.0,1.0,1.0
+Russia.1,0.0,1.0,1.0
+Serbian extremists,0.0,1.0,1.0
+Sisak-Moslavina,0.0,1.0,1.0
+Special Purpose Islamic Regiment (SPIR),0.0,1.0,1.0
+Stavropol,1.0,0.0,1.0
+TerroristsNon-State Militia,0.0,1.0,1.0
+Tourists,0.0,1.0,1.0
+Transportation,0.0,1.0,1.0
+Ukraine,0.0,1.0,1.0
+Ukrainian nationalists,0.0,1.0,1.0
+United States,0.0,1.0,1.0
+Utilities,0.0,1.0,1.0
+Yugoslavia,0.0,1.0,1.0

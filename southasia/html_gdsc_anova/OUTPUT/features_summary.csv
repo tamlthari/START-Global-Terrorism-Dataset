@@ -1,0 +1,153 @@
+FEATURE,sens assoc,res assoc,total
+Afghanistan,2.0,4.0,6.0
+Haqqani Network,1.0,5.0,6.0
+Hostage Taking (Kidnapping),5.0,1.0,6.0
+Taliban,0.0,6.0,6.0
+Deccan Mujahideen,1.0,4.0,5.0
+Explosives,3.0,2.0,5.0
+FacilityInfrastructure Attack,4.0,1.0,5.0
+Firearms,1.0,4.0,5.0
+Group name Unknown,5.0,0.0,5.0
+Incendiary,4.0,1.0,5.0
+India,4.0,1.0,5.0
+International,0.0,5.0,5.0
+Tehrik-i-Taliban Pakistan (TTP),0.0,5.0,5.0
+United States,1.0,4.0,5.0
+Airports & Aircraft,0.0,4.0,4.0
+Al-Qaida,0.0,4.0,4.0
+Assassination,3.0,1.0,4.0
+Balochistan,4.0,0.0,4.0
+BombingExplosion,3.0,1.0,4.0
+Communist Party of India - Maoist (CPI-Maoist),2.0,2.0,4.0
+Federally Administered Tribal Areas,1.0,3.0,4.0
+Helmand,1.0,3.0,4.0
+Jharkhand,3.0,1.0,4.0
+Khyber Pakhtunkhwa,4.0,0.0,4.0
+Liberation Tigers of Tamil Eelam (LTTE),0.0,4.0,4.0
+Maoists,3.0,1.0,4.0
+Military,0.0,4.0,4.0
+Multinational,0.0,4.0,4.0
+Nepal,3.0,1.0,4.0
+North-West Frontier Province,1.0,3.0,4.0
+Private Citizens & Property,1.0,3.0,4.0
+Punjab,0.0,4.0,4.0
+Sri Lanka,0.0,4.0,4.0
+Target type Unknown,4.0,0.0,4.0
+Weapon type Unknown,3.0,1.0,4.0
+Armed Assault,1.0,2.0,3.0
+Bangladesh,1.0,2.0,3.0
+Business,2.0,1.0,3.0
+Chhattisgarh,3.0,0.0,3.0
+Educational Institution,1.0,2.0,3.0
+Government (General),3.0,0.0,3.0
+Hijacking,0.0,3.0,3.0
+Hostage Taking (Barricade Incident),0.0,3.0,3.0
+Journalists & Media,1.0,2.0,3.0
+Kabul,0.0,3.0,3.0
+Manipur,3.0,0.0,3.0
+Melee,1.0,2.0,3.0
+Nationality Unknown,3.0,0.0,3.0
+Odisha,2.0,1.0,3.0
+Pakistan,3.0,0.0,3.0
+Police,1.0,2.0,3.0
+Province Unknown,0.0,3.0,3.0
+Religious FiguresInstitutions,0.0,3.0,3.0
+Sindh,2.0,1.0,3.0
+Telecommunication,2.0,1.0,3.0
+Transportation,0.0,3.0,3.0
+Unarmed Assault,1.0,2.0,3.0
+Utilities,2.0,1.0,3.0
+West Bengal,1.0,2.0,3.0
+Western,0.0,3.0,3.0
+Attack type Unknown,1.0,1.0,2.0
+Bihar,2.0,0.0,2.0
+Communist Party of Nepal- Maoist (CPN-M),0.0,2.0,2.0
+Dhaka,1.0,1.0,2.0
+Eastern,0.0,2.0,2.0
+Germany,1.0,1.0,2.0
+Ghazni,0.0,2.0,2.0
+Government (Diplomatic),0.0,2.0,2.0
+Harkatul Jihad-e-Islami,0.0,2.0,2.0
+Jammu and Kashmir,1.0,1.0,2.0
+Jundallah (Pakistan),0.0,2.0,2.0
+Kandahar,0.0,2.0,2.0
+Khorasan Chapter of the Islamic State,0.0,2.0,2.0
+Khost,0.0,2.0,2.0
+Lashkar-e-Jhangvi,0.0,2.0,2.0
+Lashkar-e-Taiba (LeT),0.0,2.0,2.0
+Mid-Western,1.0,1.0,2.0
+Mujahideen Ansar,0.0,2.0,2.0
+Northern,0.0,2.0,2.0
+Peoples Committee against Police Atrocities (PCPA),0.0,2.0,2.0
+Sikh Extremists,0.0,2.0,2.0
+Tamils,0.0,2.0,2.0
+Tourists,0.0,2.0,2.0
+Violent Political Party,2.0,0.0,2.0
+Wardak,0.0,2.0,2.0
+Adivasi Peoples Army (APA),0.0,1.0,1.0
+Afghans,0.0,1.0,1.0
+Anti-Communist Vigilante Group,0.0,1.0,1.0
+Anti-Government Guerrillas,1.0,0.0,1.0
+Awami League,0.0,1.0,1.0
+Babbar Khalsa International (BKI),0.0,1.0,1.0
+Balkh,0.0,1.0,1.0
+Baloch Liberation Army (BLA),0.0,1.0,1.0
+Baloch Republican Army (BRA),1.0,0.0,1.0
+Baloch Young Tigers (BYT),0.0,1.0,1.0
+Bamyan,0.0,1.0,1.0
+Canada,0.0,1.0,1.0
+Chemical,0.0,1.0,1.0
+Chittagong,0.0,1.0,1.0
+Communist Party of Nepal (Peoples War Group),1.0,0.0,1.0
+Communist Party of Nepal - Maoist (CPN-Maoist-Chand),1.0,0.0,1.0
+Communist Party of Nepal-Maoist (Baidya),1.0,0.0,1.0
+Delhi,0.0,1.0,1.0
+Far-Western,0.0,1.0,1.0
+Gujarat,1.0,0.0,1.0
+Hizb-I-Islami,0.0,1.0,1.0
+Indian Mujahideen,0.0,1.0,1.0
+Indonesia,0.0,1.0,1.0
+Islamabad Capital Territory,0.0,1.0,1.0
+Islamist extremists,0.0,1.0,1.0
+Italy,1.0,0.0,1.0
+Jawzjan,1.0,0.0,1.0
+Kunduz,0.0,1.0,1.0
+Logar,0.0,1.0,1.0
+Maharashtra,0.0,1.0,1.0
+Mahaz-e-Inquilab,0.0,1.0,1.0
+Maoist Communist Center (MCC),0.0,1.0,1.0
+Meghalaya,1.0,0.0,1.0
+Muslim Guerrillas,0.0,1.0,1.0
+Muslim Militants,0.0,1.0,1.0
+Muslims,0.0,1.0,1.0
+Muttahida Qami Movement (MQM),0.0,1.0,1.0
+NGO,0.0,1.0,1.0
+National Liberation Force of Bengalis (Bangali Janamukti Bahini),1.0,0.0,1.0
+National Socialist Council of Nagaland,0.0,1.0,1.0
+Naxalites,0.0,1.0,1.0
+North Central,0.0,1.0,1.0
+North Eastern,0.0,1.0,1.0
+Nuristan,0.0,1.0,1.0
+Opposition Militants,0.0,1.0,1.0
+Orissa,0.0,1.0,1.0
+Paktia,0.0,1.0,1.0
+Paktika,0.0,1.0,1.0
+Parwan,0.0,1.0,1.0
+Peoples Liberation Front (JVP),0.0,1.0,1.0
+Peoples War Group (PWG),0.0,1.0,1.0
+Province 1,1.0,0.0,1.0
+Province 2,1.0,0.0,1.0
+Province 3,1.0,0.0,1.0
+Province 4,1.0,0.0,1.0
+Province 5,1.0,0.0,1.0
+Province 7,1.0,0.0,1.0
+Shanti Bahini - Peace Force,0.0,1.0,1.0
+Shia Muslim extremists,0.0,1.0,1.0
+Southern,0.0,1.0,1.0
+Students Islamic Movement of India (SIMI),0.0,1.0,1.0
+Sudan,0.0,1.0,1.0
+TerroristsNon-State Militia,0.0,1.0,1.0
+United Liberation Front of Assam (ULFA),0.0,1.0,1.0
+Uruzgan,0.0,1.0,1.0
+Vigilante Group,0.0,1.0,1.0
+Zabul,0.0,1.0,1.0

@@ -1,0 +1,115 @@
+FEATURE,sens assoc,res assoc,total
+Airports & Aircraft,1.0,4.0,5.0
+Business,1.0,4.0,5.0
+FacilityInfrastructure Attack,4.0,1.0,5.0
+Jemaah Islamiya (JI),1.0,4.0,5.0
+Armed Assault,2.0,2.0,4.0
+Bali (Province),0.0,4.0,4.0
+Incendiary,3.0,1.0,4.0
+Moro Islamic Liberation Front (MILF),2.0,2.0,4.0
+Moro National Liberation Front (MNLF),0.0,4.0,4.0
+Multinational,0.0,4.0,4.0
+United States,0.0,4.0,4.0
+Assassination,2.0,1.0,3.0
+BombingExplosion,2.0,1.0,3.0
+Explosives,2.0,1.0,3.0
+Firearms,1.0,2.0,3.0
+Government (General),3.0,0.0,3.0
+Hostage Taking (Barricade Incident),0.0,3.0,3.0
+Hostage Taking (Kidnapping),2.0,1.0,3.0
+Indonesia,0.0,3.0,3.0
+Khmer Rouge,0.0,3.0,3.0
+Myanmar,1.0,2.0,3.0
+Pattani,2.0,1.0,3.0
+Private Citizens & Property,0.0,3.0,3.0
+Province Unknown,0.0,3.0,3.0
+Target type Unknown,3.0,0.0,3.0
+Thailand,2.0,1.0,3.0
+Tourists,0.0,3.0,3.0
+Bangkok,2.0,0.0,2.0
+Cambodian Peoples Party (CPP),0.0,2.0,2.0
+Chemical,1.0,1.0,2.0
+Free Papua Movement (OPM-Organisasi Papua Merdeka),0.0,2.0,2.0
+Germany,0.0,2.0,2.0
+Government (Diplomatic),1.0,1.0,2.0
+Group name Unknown,2.0,0.0,2.0
+Hijacking,1.0,1.0,2.0
+Jakarta,1.0,1.0,2.0
+Melee,0.0,2.0,2.0
+Metropolitian Manila,0.0,2.0,2.0
+Narathiwat,1.0,1.0,2.0
+New Peoples Army (NPA),1.0,1.0,2.0
+Papua,0.0,2.0,2.0
+Papua (Province),0.0,2.0,2.0
+Philippines,1.0,1.0,2.0
+Rangoon,0.0,2.0,2.0
+Separatists,1.0,1.0,2.0
+Shan,2.0,0.0,2.0
+Transportation,1.0,1.0,2.0
+Utilities,2.0,0.0,2.0
+Weapon type Unknown,1.0,1.0,2.0
+Yala,1.0,1.0,2.0
+Zamboanga del Sur,0.0,2.0,2.0
+Abu Sayyaf Group (ASG),0.0,1.0,1.0
+Aceh (Province),0.0,1.0,1.0
+Apayao,0.0,1.0,1.0
+Attack type Unknown,0.0,1.0,1.0
+Australia,0.0,1.0,1.0
+Bangsamoro Islamic Freedom Movement (BIFM),1.0,0.0,1.0
+Battambang,0.0,1.0,1.0
+Black September,1.0,0.0,1.0
+Cambodia,0.0,1.0,1.0
+Canada,0.0,1.0,1.0
+Communists,0.0,1.0,1.0
+Compostela Valley,1.0,0.0,1.0
+Dak Lak (Province),1.0,0.0,1.0
+Davao del Sur,0.0,1.0,1.0
+East Nusa Tenggara (Province),0.0,1.0,1.0
+East Timor.1,0.0,1.0,1.0
+Educational Institution,1.0,0.0,1.0
+Free Aceh Movement (GAM),0.0,1.0,1.0
+Iloilo,1.0,0.0,1.0
+International,1.0,0.0,1.0
+Islamic State of Iraq and the Levant (ISIL),0.0,1.0,1.0
+Israel,1.0,0.0,1.0
+Jakarta (Capital City District),0.0,1.0,1.0
+Jakarta (Special Capital Region),0.0,1.0,1.0
+Kampot,0.0,1.0,1.0
+Karen Insurgents,0.0,1.0,1.0
+Karen National Union,0.0,1.0,1.0
+Kuala Lumpur,0.0,1.0,1.0
+Maguindanao,1.0,0.0,1.0
+Maluku (Province),0.0,1.0,1.0
+Maritime,0.0,1.0,1.0
+Military,0.0,1.0,1.0
+Mon Guerrillas,0.0,1.0,1.0
+Mountain Province,0.0,1.0,1.0
+Muslims,0.0,1.0,1.0
+Narathiwat (Province),0.0,1.0,1.0
+National Democratic Alliance Army (NDAA-ESSA),0.0,1.0,1.0
+North Cotabato,1.0,0.0,1.0
+North Sumatra,0.0,1.0,1.0
+North Sumatra (Province),1.0,0.0,1.0
+Ontario,1.0,0.0,1.0
+Opposition Group,0.0,1.0,1.0
+Other,0.0,1.0,1.0
+Pampanga,0.0,1.0,1.0
+Phnom Penh,0.0,1.0,1.0
+Phuket,1.0,0.0,1.0
+Police,0.0,1.0,1.0
+Religious FiguresInstitutions,0.0,1.0,1.0
+Revolutionary Front for an Independent East Timor (FRETILIN),0.0,1.0,1.0
+Shan State,0.0,1.0,1.0
+Siem Reap,0.0,1.0,1.0
+Songkhla,0.0,1.0,1.0
+Sorsogon,1.0,0.0,1.0
+South Cotabato,1.0,0.0,1.0
+Sultan Kudarat,1.0,0.0,1.0
+Tak (Province),0.0,1.0,1.0
+Tarlac,0.0,1.0,1.0
+Telecommunication,1.0,0.0,1.0
+Violent Political Party,0.0,1.0,1.0
+West Java,0.0,1.0,1.0
+Yangon (Division),0.0,1.0,1.0
+Zambales,0.0,1.0,1.0
+Zamboanga Sibugay,0.0,1.0,1.0

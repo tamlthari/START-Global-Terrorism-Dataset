@@ -1,0 +1,107 @@
+FEATURE,sens assoc,res assoc,total
+Business,1.0,5.0,6.0
+Colombia,4.0,2.0,6.0
+Hostage Taking (Kidnapping),4.0,2.0,6.0
+Explosives,2.0,3.0,5.0
+Private Citizens & Property,3.0,2.0,5.0
+Argentina,2.0,2.0,4.0
+Armed Assault,2.0,2.0,4.0
+Ayacucho,1.0,3.0,4.0
+BombingExplosion,3.0,1.0,4.0
+Peru,2.0,2.0,4.0
+United States,1.0,3.0,4.0
+Assassination,2.0,1.0,3.0
+Buenos Aires,2.0,1.0,3.0
+Caracas,1.0,2.0,3.0
+Firearms,1.0,2.0,3.0
+Group name Unknown,2.0,1.0,3.0
+Incendiary,2.0,1.0,3.0
+Police,1.0,2.0,3.0
+Revolutionary Armed Forces of Colombia (FARC),1.0,2.0,3.0
+Shining Path (SL),1.0,2.0,3.0
+Tourists,1.0,2.0,3.0
+Utilities,2.0,1.0,3.0
+Venezuela,1.0,2.0,3.0
+Airports & Aircraft,1.0,1.0,2.0
+Bogota,1.0,1.0,2.0
+Bolivar,1.0,1.0,2.0
+Caqueta,0.0,2.0,2.0
+Chile,2.0,0.0,2.0
+Cusco,0.0,2.0,2.0
+FacilityInfrastructure Attack,2.0,0.0,2.0
+Government (Diplomatic),2.0,0.0,2.0
+Government (General),2.0,0.0,2.0
+Gunmen,2.0,0.0,2.0
+Hostage Taking (Barricade Incident),1.0,1.0,2.0
+Israel,1.0,1.0,2.0
+Japan,0.0,2.0,2.0
+Journalists & Media,2.0,0.0,2.0
+La Paz,2.0,0.0,2.0
+Lima,1.0,1.0,2.0
+M-19 (Movement of April 19),0.0,2.0,2.0
+Manuel Rodriguez Patriotic Front (FPMR),1.0,1.0,2.0
+National Liberation Army of Colombia (ELN),1.0,1.0,2.0
+Province Unknown,0.0,2.0,2.0
+San Martin,0.0,2.0,2.0
+Santiago Metropolitan,2.0,0.0,2.0
+Sucre,2.0,0.0,2.0
+Valparaiso,1.0,1.0,2.0
+Weapon type Unknown,1.0,1.0,2.0
+2 April Group,1.0,0.0,1.0
+Amazonas,0.0,1.0,1.0
+America Battalion,0.0,1.0,1.0
+Ancash,0.0,1.0,1.0
+Antioquia,0.0,1.0,1.0
+Apurimac,0.0,1.0,1.0
+Attack type Unknown,0.0,1.0,1.0
+Black September,1.0,0.0,1.0
+Bolivia,1.0,0.0,1.0
+Cajamarca,0.0,1.0,1.0
+Callao,1.0,0.0,1.0
+Canada,1.0,0.0,1.0
+Chemical,1.0,0.0,1.0
+Choco,0.0,1.0,1.0
+Commandos,1.0,0.0,1.0
+Demerara-Mahaica,1.0,0.0,1.0
+Ecuador,1.0,0.0,1.0
+Educational Institution,1.0,0.0,1.0
+Fake Weapons,1.0,0.0,1.0
+Guyana,1.0,0.0,1.0
+Hijacking,0.0,1.0,1.0
+Huancavelica,0.0,1.0,1.0
+Huanuco,0.0,1.0,1.0
+Huila,1.0,0.0,1.0
+Junin,0.0,1.0,1.0
+Loreto,0.0,1.0,1.0
+Magdalena,1.0,0.0,1.0
+Manabi,1.0,0.0,1.0
+Maritime,1.0,0.0,1.0
+Melee,0.0,1.0,1.0
+Military,0.0,1.0,1.0
+Montoneros (Argentina),0.0,1.0,1.0
+Movement of the Revolutionary Left (MIR) (Chile),1.0,0.0,1.0
+Multinational,0.0,1.0,1.0
+Narco-Terrorists,0.0,1.0,1.0
+Narino,1.0,0.0,1.0
+Paramilitaries,0.0,1.0,1.0
+Peasant Self-Defense Group (ACCU),0.0,1.0,1.0
+Peoples Revolutionary Army (ERP),1.0,0.0,1.0
+Pernambuco,1.0,0.0,1.0
+Red Flag (Venezuela),0.0,1.0,1.0
+Revolutionary Workers Party,1.0,0.0,1.0
+Ricardo Franco Front (Dissident FARC),1.0,0.0,1.0
+Right-Wing Death Squad,0.0,1.0,1.0
+Right-Wing Paramilitaries,0.0,1.0,1.0
+Santa Cruz,1.0,0.0,1.0
+Tacna,0.0,1.0,1.0
+Target type Unknown,1.0,0.0,1.0
+TerroristsNon-State Militia,0.0,1.0,1.0
+The Extraditables,0.0,1.0,1.0
+Transportation,1.0,0.0,1.0
+Tupac Amaru Revolutionary Movement (MRTA),0.0,1.0,1.0
+Tupamaro Revolutionary Movement,1.0,0.0,1.0
+Unarmed Assault,1.0,0.0,1.0
+United Self Defense Units of Colombia (AUC),0.0,1.0,1.0
+Vaupes,0.0,1.0,1.0
+Violent Political Party,1.0,0.0,1.0
+Zulia,1.0,0.0,1.0
