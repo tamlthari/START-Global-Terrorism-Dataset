@@ -1,7 +1,7 @@
 # START Global Terrorism Dataset
 We analyze the START Global Terrorism Dataset using Plotly, ANOVA test volcano plots, Topological Data Analysis (TDA) and Google Data Studio.
-Our notebook is published at [Google Colab](https://colab.research.google.com/drive/1QA3N-P9Hsrtvio0vec-jE7yOUgsKCZtG)
-Our Google Data Studio is at [link](https://datastudio.google.com/s/uerw2If2fNI)
+Our notebook is published at [Google Colab](https://colab.research.google.com/drive/1QA3N-P9Hsrtvio0vec-jE7yOUgsKCZtG).
+Our Google Data Studio is at [link](https://datastudio.google.com/s/uerw2If2fNI).
 Our team includes: Ly Tran ([github](https://github.com/TranLySFW)) and Tuc Nguyen ([github](https://github.com/ngtrituc))
 
 ## Python Dependencies
@@ -36,12 +36,12 @@ Our team includes: Ly Tran ([github](https://github.com/TranLySFW)) and Tuc Nguy
     - Links to example graphs: 
         -   Link to graph l2norm kmeans tooltip weapontype https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-l2normkmeans/tooltip-weapontype/index.html#
 
-        -   Link to graph tooltip number killed https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-l2normkmeans/tooltip-nkill/index.html#
+        -   Link to graph l2norm kmeans tooltip number killed https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-l2normkmeans/tooltip-nkill/index.html#
 
         -   Link to graph dbscan tsne tooltip weapontype https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-tsnedbscan/tooltipweapontype/index.html#
 
         -   Link to graph tsne dbscan tooltip number killed https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-tsnedbscan/tooltipnkill/index.html#
-        
+
 2. Pearson correlation of number killed and firearms fraction
     - For each node we calculate the average number killed for all node members and fraction of firearms weapon type for all node members.
     - We use `scipy.stats.pearsonr` to calculate the Pearson correlation
