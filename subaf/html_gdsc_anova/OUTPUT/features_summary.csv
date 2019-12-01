@@ -1,0 +1,165 @@
+FEATURE,sens assoc,res assoc,total
+Multinational,1.0,5.0,6.0
+United States,1.0,5.0,6.0
+Government (Diplomatic),1.0,4.0,5.0
+Armed Assault,2.0,2.0,4.0
+Assassination,3.0,1.0,4.0
+Hostage Taking (Barricade Incident),1.0,3.0,4.0
+Incendiary,2.0,2.0,4.0
+Nairobi,1.0,3.0,4.0
+Private Citizens & Property,2.0,2.0,4.0
+Airports & Aircraft,0.0,3.0,3.0
+Al-Qaida,0.0,3.0,3.0
+Attack type Unknown,1.0,2.0,3.0
+Chad,1.0,2.0,3.0
+Explosives,2.0,1.0,3.0
+FacilityInfrastructure Attack,2.0,1.0,3.0
+France,0.0,3.0,3.0
+Hostage Taking (Kidnapping),1.0,2.0,3.0
+Khartoum,0.0,3.0,3.0
+Lords Resistance Army (LRA),1.0,2.0,3.0
+Melee,0.0,3.0,3.0
+National Union for the Total Independence of Angola (UNITA),1.0,2.0,3.0
+Sudan,2.0,1.0,3.0
+Tourists,0.0,3.0,3.0
+African National Congress (South Africa),1.0,1.0,2.0
+Black September,1.0,1.0,2.0
+BombingExplosion,1.0,1.0,2.0
+Business,0.0,2.0,2.0
+Central African Republic,0.0,2.0,2.0
+Cuba,0.0,2.0,2.0
+Eritrean Liberation Front,0.0,2.0,2.0
+Ethiopia,0.0,2.0,2.0
+Ethiopian Peoples Revolutionary Party,0.0,2.0,2.0
+Firearms,0.0,2.0,2.0
+Germany,0.0,2.0,2.0
+Government (General),2.0,0.0,2.0
+Group name Unknown,2.0,0.0,2.0
+Hutu extremists,0.0,2.0,2.0
+Islamic State in the Greater Sahara (ISGS),0.0,2.0,2.0
+Janjaweed,1.0,1.0,2.0
+Kenya,0.0,2.0,2.0
+Maekel,0.0,2.0,2.0
+NGO,0.0,2.0,2.0
+Province Unknown,0.0,2.0,2.0
+Revolutionary United Front (RUF),1.0,1.0,2.0
+South Africa,1.0,1.0,2.0
+South Sudan,1.0,1.0,2.0
+Sudan Peoples Liberation Movement in Opposition (SPLM-IO),1.0,1.0,2.0
+Tigray Peoples Liberation Front (TPLF),0.0,2.0,2.0
+Zinder,0.0,2.0,2.0
+Agadez,0.0,1.0,1.0
+Al-Qaida in the Islamic Maghreb (AQIM),0.0,1.0,1.0
+Al-Shabaab,1.0,0.0,1.0
+Algeria,0.0,1.0,1.0
+Allied Democratic Forces (ADF),1.0,0.0,1.0
+Angola,0.0,1.0,1.0
+Ansaru (Jamaatu Ansarul Muslimina Fi Biladis Sudan),0.0,1.0,1.0
+Anti-Balaka Militia,0.0,1.0,1.0
+Ashanti,1.0,0.0,1.0
+Banaadir,1.0,0.0,1.0
+Banjul,1.0,0.0,1.0
+Basse-Kotto,0.0,1.0,1.0
+Bayelsa,0.0,1.0,1.0
+Biological,1.0,0.0,1.0
+Boko Haram,0.0,1.0,1.0
+Boma,1.0,0.0,1.0
+Bophutatswana,0.0,1.0,1.0
+Borno,0.0,1.0,1.0
+Bubanza,0.0,1.0,1.0
+Bulawayo,0.0,1.0,1.0
+Burundi,0.0,1.0,1.0
+Canada,0.0,1.0,1.0
+Central,1.0,0.0,1.0
+Chemical,0.0,1.0,1.0
+Coalition for Unity and Democracy (CUD),1.0,0.0,1.0
+Conakry,1.0,0.0,1.0
+Cross River,1.0,0.0,1.0
+David Yau Yau Militia,0.0,1.0,1.0
+Democratic Front of the Central African People (FDPC),0.0,1.0,1.0
+Democratic Republic of the Congo,1.0,0.0,1.0
+Diffa,0.0,1.0,1.0
+Dikhil,0.0,1.0,1.0
+Eastern Equatoria,0.0,1.0,1.0
+Extreme-North,0.0,1.0,1.0
+Food or Water Supply,1.0,0.0,1.0
+Front for the Restoration of Unity and Democracy,0.0,1.0,1.0
+Fulani extremists,0.0,1.0,1.0
+Gambia,1.0,0.0,1.0
+Garissa,0.0,1.0,1.0
+Gauteng,1.0,0.0,1.0
+Gisenyi,0.0,1.0,1.0
+Great Britain,0.0,1.0,1.0
+Haute-Kotto,0.0,1.0,1.0
+Hijacking,1.0,0.0,1.0
+Huambo,0.0,1.0,1.0
+Inhambane,0.0,1.0,1.0
+International,0.0,1.0,1.0
+Israel,1.0,0.0,1.0
+Italy,0.0,1.0,1.0
+Jonglei,0.0,1.0,1.0
+Journalists & Media,1.0,0.0,1.0
+Kano,1.0,0.0,1.0
+Khomas,0.0,1.0,1.0
+Kiambu,1.0,0.0,1.0
+Kigali,0.0,1.0,1.0
+Kirinyaga,1.0,0.0,1.0
+KwaZulu-Natal,1.0,0.0,1.0
+Lagos,1.0,0.0,1.0
+Liberia,0.0,1.0,1.0
+Liberians United for Reconciliation and Democracy (LURD),1.0,0.0,1.0
+Mai Mai Charles Militia,1.0,0.0,1.0
+Mai Mai Yakutumba Militia,1.0,0.0,1.0
+Malanje,0.0,1.0,1.0
+Maritime,1.0,0.0,1.0
+Mashonaland South,0.0,1.0,1.0
+Matabeleland North,0.0,1.0,1.0
+Mbomou,0.0,1.0,1.0
+Military,0.0,1.0,1.0
+Montserrado,0.0,1.0,1.0
+Movement for Oneness and Jihad in West Africa (MUJAO),0.0,1.0,1.0
+Mozambique,0.0,1.0,1.0
+Mozambique National Resistance Movement (MNR),0.0,1.0,1.0
+Mudug,0.0,1.0,1.0
+NDjamena,0.0,1.0,1.0
+Nakuru,1.0,0.0,1.0
+National Resistance Movement (NRM),0.0,1.0,1.0
+Nationality Unknown,1.0,0.0,1.0
+Nigeria,0.0,1.0,1.0
+North Darfur,1.0,0.0,1.0
+North Kordofan,0.0,1.0,1.0
+Northern,1.0,0.0,1.0
+Northern Upper Nile,1.0,0.0,1.0
+Nouakchott,1.0,0.0,1.0
+Orange Free State,0.0,1.0,1.0
+Orientale,0.0,1.0,1.0
+Ouaddai,1.0,0.0,1.0
+Police,1.0,0.0,1.0
+Popular Front for the Liberation of Palestine (PFLP),1.0,0.0,1.0
+Popular Front for the Renaissance of the Central African Republic (FPRC),1.0,0.0,1.0
+Rebel Military Unit,1.0,0.0,1.0
+Rebels,0.0,1.0,1.0
+Red Sea,1.0,0.0,1.0
+Religious FiguresInstitutions,0.0,1.0,1.0
+Rhodesia,0.0,1.0,1.0
+Rivers,0.0,1.0,1.0
+Rwanda,0.0,1.0,1.0
+Sierra Leone,1.0,0.0,1.0
+Somali,0.0,1.0,1.0
+Somalia,1.0,0.0,1.0
+South Darfur,0.0,1.0,1.0
+South Kivu,1.0,0.0,1.0
+Target type Unknown,1.0,0.0,1.0
+Tillaberi,0.0,1.0,1.0
+Timbuktu,0.0,1.0,1.0
+Tutsi extremists,0.0,1.0,1.0
+Uganda,0.0,1.0,1.0
+Uige,0.0,1.0,1.0
+Union for Peace in Central Africa (UPC),0.0,1.0,1.0
+Unity,0.0,1.0,1.0
+Utilities,1.0,0.0,1.0
+West Kordofan,0.0,1.0,1.0
+Western,0.0,1.0,1.0
+Zamfara,0.0,1.0,1.0
+Zimbabwe African Nationalist Union (ZANU),0.0,1.0,1.0
+Zimbabwe Patriotic Front,0.0,1.0,1.0

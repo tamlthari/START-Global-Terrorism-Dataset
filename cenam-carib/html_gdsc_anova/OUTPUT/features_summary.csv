@@ -1,0 +1,74 @@
+FEATURE,sens assoc,res assoc,total
+Military,0.0,5.0,5.0
+United States,2.0,3.0,5.0
+Firearms,0.0,4.0,4.0
+Armed Assault,0.0,3.0,3.0
+Assassination,3.0,0.0,3.0
+El Salvador,2.0,1.0,3.0
+Explosives,2.0,1.0,3.0
+Farabundo Marti National Liberation Front (FMLN),0.0,3.0,3.0
+Group name Unknown,3.0,0.0,3.0
+Guatemala.1,3.0,0.0,3.0
+San Salvador,2.0,1.0,3.0
+Utilities,2.0,1.0,3.0
+Weapon type Unknown,3.0,0.0,3.0
+Business,2.0,0.0,2.0
+Chalatenango,0.0,2.0,2.0
+Cuscatlan,0.0,2.0,2.0
+Democratic Revolutionary Alliance (ARDE),0.0,2.0,2.0
+FacilityInfrastructure Attack,1.0,1.0,2.0
+Francisco Morazan,1.0,1.0,2.0
+Government (Diplomatic),2.0,0.0,2.0
+Government (General),2.0,0.0,2.0
+Guatemala,2.0,0.0,2.0
+Haiti,1.0,1.0,2.0
+Honduras,1.0,1.0,2.0
+Hostage Taking (Kidnapping),2.0,0.0,2.0
+Journalists & Media,2.0,0.0,2.0
+La Union,0.0,2.0,2.0
+Lorenzo Zelaya Revolutionary Front (LZRF),0.0,2.0,2.0
+Nicaragua,0.0,2.0,2.0
+Nicaraguan Democratic Force (FDN),0.0,2.0,2.0
+Panama.1,1.0,1.0,2.0
+Province Unknown,0.0,2.0,2.0
+Quiche,0.0,2.0,2.0
+Rio San Juan,0.0,2.0,2.0
+20 December Movement (M-20),1.0,0.0,1.0
+Anti-Communist Commando of the South,1.0,0.0,1.0
+Armed Forces of National Resistance (FARN),0.0,1.0,1.0
+Armed Group for the Liberation of Guadeloupe (GLAG),1.0,0.0,1.0
+Armed People,1.0,0.0,1.0
+Atlantico Norte,0.0,1.0,1.0
+Basse-Terre,1.0,0.0,1.0
+BombingExplosion,1.0,0.0,1.0
+Chimaltenango,0.0,1.0,1.0
+Chinandega,0.0,1.0,1.0
+Comayagua,0.0,1.0,1.0
+Costa Rica,1.0,0.0,1.0
+Cuba,1.0,0.0,1.0
+France,1.0,0.0,1.0
+Gunmen,1.0,0.0,1.0
+Havana,1.0,0.0,1.0
+Incendiary,1.0,0.0,1.0
+Jamaica,1.0,0.0,1.0
+Japan,1.0,0.0,1.0
+Left-Wing Guerrillas,0.0,1.0,1.0
+Misurasata Indian Organization,0.0,1.0,1.0
+Morazan,0.0,1.0,1.0
+Nueva Segovia,0.0,1.0,1.0
+Ouest,1.0,0.0,1.0
+Panama,1.0,0.0,1.0
+Patriotic Morazanista Front (FPM),1.0,0.0,1.0
+Pointe-a-Pitre,1.0,0.0,1.0
+Religious FiguresInstitutions,0.0,1.0,1.0
+Right-wing extremists,1.0,0.0,1.0
+Saint George,0.0,1.0,1.0
+San Jose,1.0,0.0,1.0
+San Vicente,0.0,1.0,1.0
+Santa Ana,0.0,1.0,1.0
+Santiago,1.0,0.0,1.0
+South Caribbean Coast Autonomous Region,0.0,1.0,1.0
+Terrorists,1.0,0.0,1.0
+Usulutan,0.0,1.0,1.0
+Violent Political Party,1.0,0.0,1.0
+Zelaya,0.0,1.0,1.0
