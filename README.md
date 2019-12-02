@@ -48,4 +48,11 @@ Our team includes: Ly Tran ([github](https://github.com/TranLySFW)) and Tuc Nguy
 
 
 ## Plotly
-1. See my team member's githubs for implementations
+1. Geomap: 
+    -   We use `plotly.graph_objects` to create the global map of terrorist events. We enable hover text to show the event details including number killed, by group, motive, date.
+2.  Successful attacks by regions:
+    -   We use `plotly.graph_objects` to create the interactive plot showing yearly event counts by region
+3.  Number of success/fail attacks in North Africa & Middle East/South Asia/North America/Southeast Asia:
+    -   We use `plotly.graph_objects` to create stacked bar charts showing number of success/fail events for the years 1970-2017.
+4.  Stacked bar charts of weapon type number of success attacks by year:
+    -   We use `plotly.graph_objects` to create stacked bar charts of weapon type number of success attacks for the years 1970-2017
