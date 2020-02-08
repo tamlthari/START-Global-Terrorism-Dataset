@@ -34,13 +34,13 @@ Our team includes: Ly Tran ([github](https://github.com/TranLySFW)) and Tuc Nguy
         - We use `sklearn.cluster.DBSCAN` as clusterer in our graph
     - Set tooltips and color_function as number killed and weapon type
     - Links to example graphs: 
-        -   Link to graph l2norm kmeans tooltip weapontype https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-l2normkmeans/tooltip-weapontype/index.html#
+        -   Link to graph l2norm kmeans tooltip weapontype https://tamlthari.github.io/START-global-terrorism/kepler-weapontype1-l2normkmeans/tooltip-weapontype/index.html#
 
-        -   Link to graph l2norm kmeans tooltip number killed https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-l2normkmeans/tooltip-nkill/index.html#
+        -   Link to graph l2norm kmeans tooltip number killed https://tamlthari.github.io/START-global-terrorism/kepler-weapontype1-l2normkmeans/tooltip-nkill/index.html#
 
-        -   Link to graph dbscan tsne tooltip weapontype https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-tsnedbscan/tooltipweapontype/index.html#
+        -   Link to graph dbscan tsne tooltip weapontype https://tamlthari.github.io/START-global-terrorism/kepler-weapontype1-tsnedbscan/tooltipweapontype/index.html#
 
-        -   Link to graph tsne dbscan tooltip number killed https://thtamho.github.io/START-global-terrorism/kepler-weapontype1-tsnedbscan/tooltipnkill/index.html#
+        -   Link to graph tsne dbscan tooltip number killed https://tamlthari.github.io/START-global-terrorism/kepler-weapontype1-tsnedbscan/tooltipnkill/index.html#
 
 2. Pearson correlation of number killed and firearms fraction
     - For each node we calculate the average number killed for all node members and fraction of firearms weapon type for all node members.
