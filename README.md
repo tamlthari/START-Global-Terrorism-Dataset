@@ -19,7 +19,7 @@ Our team includes: Ly Tran ([github](https://github.com/TranLySFW)) and Tuc Nguy
 2. Visualizing ANOVA test results with volcano plots
     - For understanding volcano plots see this [link](https://discover.nci.nih.gov/microarrayAnalysis/Statistical.Tests.jsp)
     - we use `bokeh` to plot for each regions
-    - standalone volcano plots published at this [link](https://thtamho.github.io/START-global-terrorism/anova-volcano/index.html)
+    - standalone volcano plots published at this [link](https://tamlthari.github.io/START-global-terrorism/anova-volcano/index.html)
 
 ## Topological Data Analysis
 1. About the data
